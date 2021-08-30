@@ -1,7 +1,19 @@
 1: Leikjavél er forrit sem heldur utan um alla parta leiksins, og setur þá alla saman þegar hann er spilaður.
 
-2: 
+2: Gameploop (Awake, Update, LateUpdate, FixedUpdate, etc.) er þar sem kóði leiksins er runnaður í loop, t.d. til að breyta staðsetningu gameobject eða skoða hvort að leikmaður sé búinn að ýta á einhvern takka.
 
 3: Asset eru hlutir eins og 3D model, textures, scripts, sound-files.
 
-4: 
+4: GameObject er hlutur inn í leiknum sem er að minnsta kosti með staðsetningu component (transform). Í inspector sést hvaða component eru tengdir hlutnum t.d. mesh renderer, rigidbody og transform.
+
+5: Prefab er gameobject sem er hægt að copya mörgum sinnum en þau eru öll alveg eins. Þetta er mjög gott að nota ef maður ætlar að hafa marga alveg eins gameobject af því það auðveldar manni að setja þau inn í leikinn og breyta þeim öllum í einu eftirá.
+
+6i: Scene view gluggin er þar sem hægt er að sjá leikjaumhverfið og breyta því.
+
+6ii: Game view gluggin er þar sem hægt er að sjá hvað leikmaðurinn sér og prufukeyra leikinn.
+
+6iii: í project glugganum er hægt að sjá öll file leiksins og búa til ný file.
+
+6iv: í Hierarchy glugganum er hægt að sjá hvaða gameobject eru í scene-inu/leiknum og breyta parent/child tengingum þeirra.
+
+6v: í inspector glugganum er hægt að sjá öll component tengd Gameobject pg hægt er að fikta við þá þar.
