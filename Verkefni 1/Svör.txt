@@ -1,0 +1,7 @@
+1: Leikjavél er forrit sem heldur utan um alla parta leiksins, og setur þá alla saman þegar hann er spilaður.
+
+2: 
+
+3: Asset eru hlutir eins og 3D model, textures, scripts, sound-files.
+
+4: 
