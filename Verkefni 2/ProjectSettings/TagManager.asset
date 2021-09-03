@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Obstacle
   - Fast
+  - Coin
+  - Heart
   layers:
   - Default
   - TransparentFX
