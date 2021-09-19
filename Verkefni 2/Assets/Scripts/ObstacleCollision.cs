@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//Hjálmar Húnfjörð
 public class ObstacleCollision : MonoBehaviour
 {
     public Color32 defaultColor = new Color32(255, 0, 0, 0);

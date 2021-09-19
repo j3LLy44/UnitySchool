@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//Hjálmar Húnfjörð
 public class DestroyAfterTime : MonoBehaviour
 {
     public GameObject otherObject;

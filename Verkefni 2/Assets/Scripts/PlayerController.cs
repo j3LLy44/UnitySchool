@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//Hjálmar Húnfjörð
 public class PlayerController : MonoBehaviour
 {
     //Forces applied to the player to move him.
